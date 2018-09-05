@@ -1,0 +1,4 @@
+use_frameworks!
+target 'DIPESHCHROMECAST' do
+    pod 'google-cast-sdk'
+end
